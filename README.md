@@ -24,28 +24,3 @@ Ensure the dataset (mcdonalds.csv) is in the same directory as the script.
 Run the script:
 python segmentation_analysis.py
 
-**Outputs**
-
-**Cluster Visualizations:**
-- Heatmaps of segment characteristics.
-- Boxplots showing age and visit frequency by segment.
-
-**Segment Insights:**
-- Summary statistics for customer preferences and behaviors.
-
-**Predictive Model:**
-- A decision tree visualization for predicting segment membership.
-
-**Customization**
-- Modify the clustering parameters (e.g., number of clusters) in the script for different segmentation levels.
-- Extend the analysis by adding additional visualizations or advanced modeling techniques.
-
-**Example Outputs**
-- Heatmap of Segment Characteristics
-- Decision Tree for Segment Prediction
-
-**Contributing**
-- Contributions are welcome! Feel free to submit issues or pull requests.
-
-**License**
-This project is open-source and available under the MIT License.
